@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 21e134b94b85c394dbdfc78e89e1f26d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: Plane
+    100004: //RootNode
+    100006: goal1
+    100008: Hall
+    100010: Climb1
+    100012: Goal1
+    100014: Goal2
+    100016: Cylinder_001
+    100018: Cylinder_002
+    100020: Climb2
+    100022: Basket1
+    100024: Cube
+    100026: Cylinder_003
+    100028: Torus
+    100030: Bank
+    100032: Doors
+    100034: Black1
+    100036: Gitter1
+    100038: Gitter2
+    100040: Gitter3
+    100042: Gitter4
+    400000: Cylinder
+    400002: Plane
+    400004: //RootNode
+    400006: goal1
+    400008: Hall
+    400010: Climb1
+    400012: Goal1
+    400014: Goal2
+    400016: Cylinder_001
+    400018: Cylinder_002
+    400020: Climb2
+    400022: Basket1
+    400024: Cube
+    400026: Cylinder_003
+    400028: Torus
+    400030: Bank
+    400032: Doors
+    400034: Black1
+    400036: Gitter1
+    400038: Gitter2
+    400040: Gitter3
+    400042: Gitter4
+    2100000: unnamed
+    2100002: None__Net_png
+    2100004: None__Basket_png
+    2100006: Steel
+    2100008: Black
+    2100010: Wood
+    2100012: Goal
+    2100014: Floor
+    2100016: WallsBot
+    2100018: WallsTop
+    2100020: Door
+    2100022: Doorhandle
+    2100024: FloorMarking
+    2300000: Cylinder
+    2300002: Plane
+    2300004: goal1
+    2300006: Hall
+    2300008: Climb1
+    2300010: Goal1
+    2300012: Cylinder_001
+    2300014: Cylinder_002
+    2300016: Basket1
+    2300018: Cube
+    2300020: Cylinder_003
+    2300022: Torus
+    2300024: Bank
+    2300026: Doors
+    2300028: Black1
+    2300030: Gitter1
+    2300032: Gitter2
+    2300034: Gitter3
+    2300036: Gitter4
+    3300000: Cylinder
+    3300002: Plane
+    3300004: goal1
+    3300006: Hall
+    3300008: Climb1
+    3300010: Goal1
+    3300012: Cylinder_001
+    3300014: Cylinder_002
+    3300016: Basket1
+    3300018: Cube
+    3300020: Cylinder_003
+    3300022: Torus
+    3300024: Bank
+    3300026: Doors
+    3300028: Black1
+    3300030: Gitter1
+    3300032: Gitter2
+    3300034: Gitter3
+    3300036: Gitter4
+    4300000: Cylinder
+    4300002: Plane
+    4300004: goal1
+    4300006: Hall
+    4300008: Climb1
+    4300010: Goal1
+    4300012: Cylinder_001
+    4300014: Cylinder_002
+    4300016: Basket1
+    4300018: Cube
+    4300020: Cylinder_003
+    4300022: Torus
+    4300024: Bank
+    4300026: Doors
+    4300028: Gitter1
+    4300030: Black1
+    4300032: Gitter2
+    4300034: Gitter3
+    4300036: Gitter4
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: fcea95d2871b619479a3131a0cef25c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 41ca1a74ea1b26847bf9c5d43b91257f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doorhandle
+    second: {fileID: 2100000, guid: 98ce55f1e62e4f542b6008c6ae5135cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorMarking
+    second: {fileID: 2100000, guid: f2c9e9a13ea6f464199c47310b39b8df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Goal
+    second: {fileID: 2100000, guid: 36134a709822df54da91901f44b413b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Net_png
+    second: {fileID: 2100000, guid: e0bcf142b15473945870519765f3272f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: d9b47dd969970104e92e87b12f91c683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7ad8cb0e8ad81f5438ac0fee277466ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

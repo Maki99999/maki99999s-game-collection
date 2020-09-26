@@ -1,0 +1,80 @@
+You	You
+Girl	Maki
+OccultGirl0	Girl
+
+C00Start00=Where did Maki go again?
+C00Start01=I am certain she's on the roof again.
+C00Start02=Ah, here you are.
+
+C01Start00=This dream again? Thats like the third time this week!
+C01Start01=What's that? Was that here before?
+C01Start02="Just a dream?"
+C01Start03=One of these creepy notes. That's already the third this week. I think someone tries to prank me. Maybe the occult club. I never heard anything good about them.
+C01Start04=Maybe I'll visit them after school. They should stop pranking people. Their club room is on the last floor in the corner if I remember correctly.
+
+C01Start09=Was there something?
+
+C01StartGirl00=Let me guess... you slept again during lesson. You will never get through exams like that!
+C01Start10=I'm just too tired in the morning.
+C01StartGirl01=Maybe you shouldn't watch hentai all night@Del16@Skp20cat videos all night long.
+C01Start11=Hey I never stay up too late. I'm always laying in my bed around 2!
+C01StartGirl02=That's far too late! Whatever, if you think that's enough, do it.
+C01StartGirl03=Are we going home together again?
+C01Start12=As always.
+C01StartGirl04=Okay. I'll wait at the entrance.
+C01Start13=Okay.
+C01Start14=She's always looking like she's in a hurry. So, I could go directly to Maki or I'll visit the occult club before that.
+
+C01OccultDoorYou00	Hello?
+C01OccultDoorGirl00	Password?
+C01OccultDoorYou01	Is the password
+C01OccultDoorGirl01	No.
+C01OccultDoorYou02	Then maybe
+C01OccultDoorYou03	I need a password?
+C01OccultDoorGirl02	Yes, you need a password to enter.
+C01OccultDoorYou04	I just want to talk real quick.
+C01OccultDoorGirl03	You can become a member, then you'll get the password and then we can talk all day long.
+C01OccultDoorYou05	I don't want to become a menber. I just want you to stop with these weird notes!
+C01OccultDoorGirl04	What notes?
+C01OccultDoorYou06	Do not be stupid. You gave me a weird paper with a weird occult symbol on it!
+C01OccultDoorGirl05	a symbol? How does it look like?
+C01OccultDoorYou07	Almost like an encircled M.
+C01OccultDoorYou08	Hello?
+C01OccultDoorGirl06	We have nothing to do with the note. But if it's really the symbol we think it is, then you are in grave danger. We can help you when you become a member.
+C01OccultDoorYou09	Yeah sure, probably some prophecy that I will stumble on a rock tomorrow or something like that. I don't need help for that.
+C01OccultDoorGirl07	Come back when you've decide otherwise. If it isn't too late for you then.
+C01OccultDoorYou10	Sure, bye bye.
+C01OccultDoorYou11	Now I should hurry, Maki is waiting.
+C01OccultDoorYouRepeat	Maki is waiting at the entrance.
+
+C01OccultDoorYouSecret	What the hell...
+C01OccultDoorSecret	You have a big secret, haven't you?
+
+C01EndOccultGirl00=You took quite a while. Come, let us go.
+C01EndOccultGirl01=So, I wanted to tell you something.
+C01EndOccultGirl02=But first, where were you, were you on the potty or what took you so long?
+C01EndOccult00=I was at the occult club. They have@End6 some weird notes...
+C01EndOccultGirl03=At the occult club?
+C01EndOccult01=Yes, the thought, they could make me a member by pranking me.
+C01EndOccultGirl04=You mustn't go to them anymore!
+C01EndOccult02=O-Okay. Why not?
+C01EndOccultGirl05=They are dangerous. You musn't get involved with them!
+C01EndOccult03=Fine.
+C01EndOccult04=Didn't you want to tell me something?
+C01EndOccultGirl06=Hmph.
+C01EndOccult05=She probably has pretty bad experiences with them.
+
+C01EndNormalGirl00=There you are. Let's go.
+C01EndNormalGirl01=I wanted to tell you something.
+C01EndNormal00=What is it?
+C01EndNormalGirl02=As you know, lastly, I skipped some lessons.
+C01EndNormal01=Ah yes! I wanted to ask you about that. Are you sick? Is it something serious?
+C01EndNormalGirl03=No, no. It can't kill me.
+C01EndNormal02=But it isn't yust a cold or something?
+C01EndNormalGirl04=No...
+C01EndNormalGirl05=So...
+C01EndNormalGirl06=How should I say...
+C01EndNormalGirl07=Nevermind, it isn't that important.
+C01EndNormal03=You sure?
+C01EndNormalGirl08=Yes... Everything is fine...
+C01EndNormal04=Something doesn't feel right about her...

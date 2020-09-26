@@ -1,0 +1,80 @@
+You	Du
+Girl	Maki
+OccultGirl0	Mädchen
+
+C00Start00=Wo ist Maki denn schon wieder hingegangen?
+C00Start01=Bestimmt ist sie wieder auf dem Dach.
+C00Start02=Oh, hier bist du.
+
+C01Start00=Schon wieder dieser Traum? Das ist bestimmt schon das dritte Mal diese Woche!
+C01Start01=Was ist das? War das vorher auch schon da?
+C01Start02="Nur ein Traum?"
+C01Start03=Noch einer von diesen creepy Zetteln. Das ist schon der dritte dieser Woche. Ich glaube, jemand spielt mir einen Streich. Vielleicht ja der Okkult-Klub. Von dem habe ich bis jetzt nur Schlechtes gehört.
+C01Start04=Ich sollte die vielleicht mal nach der Schule besuchen. Die sollen mal mit ihren Witzen aufhören. Der Clubraum war glaube ich im zweiten Stock in der Ecke.
+
+C01Start09=War da gerade was?
+
+C01StartGirl00=Hast du gerade wieder im Unterricht geschlafen? So wirst du nie die Prüfungen schaffen!
+C01Start10=Ich bin morgens halt immer so müde.
+C01StartGirl01=Dann solltest du vielleicht nicht immer so lange wach bleiben und Hentaivideos@Del12@Skp12Katzenvideos im Internet schauen.
+C01Start11=So lang bleibe ich doch nie wach. Um 2 bin ich eigentlich immer im Bett!
+C01StartGirl02=Das ist doch viel zu spät. Naja, wenn du meinst, dass das reicht.
+C01StartGirl03=Gehen wir wieder zusammen nach Hause?
+C01Start12=Wie immer.
+C01StartGirl04=Gut. Ich gehe schon mal zum Eingang.
+C01Start13=Okay.
+C01Start14=Sie sieht immer so aus, als wenn sie es eilig hat. Also ich könnte jetzt direkt zu Maki gehen oder noch beim Okkult-Klub vorbeischauen.
+
+C01OccultDoorYou00	Hallo?
+C01OccultDoorGirl00	Passwort?
+C01OccultDoorYou01	Ist das Passwort
+C01OccultDoorGirl01	Nein.
+C01OccultDoorYou02	Dann vielleicht
+C01OccultDoorYou03	Was für'n Passwort?
+C01OccultDoorGirl02	Du brauchst ein Passwort, um hier rein zu kommen.
+C01OccultDoorYou04	Ich will nur kurz reden.
+C01OccultDoorGirl03	Wenn du ein Mitglied wirst, bekommst du das Passwort und wir können so viel reden wie du willst.
+C01OccultDoorYou05	Ich will kein Mitglied werden! Ich wollte nur sagen, dass ihr mit diesen komischen Zetteln aufhören sollt!
+C01OccultDoorGirl04	Was für Zettel?
+C01OccultDoorYou06	Stell dich nicht dumm. Ihr habt mir heute so einen komischen Zettel untergejublet mit so einem komischen Okkult-Symbol drauf!
+C01OccultDoorGirl05	Ein Symbol? Wie sieht es aus?
+C01OccultDoorYou07	Fast wie ein umkreistes M.
+C01OccultDoorYou08	Hallo?
+C01OccultDoorGirl06	Wir haben nichts mit dem Zettel zu tun. Aber wenn das wirklich das Symbol ist, von wir glauben das es das ist, dann steckst du in Schwierigkeiten. Wenn du ein Mitglied wirst, können wir dir helfen.
+C01OccultDoorYou09	Jaja, wahrscheinlich ist es eine Prophezeiung dafür, dass ich morgen stolpere. Dafür brauch ich keine Hilfe.
+C01OccultDoorGirl07	Wenn du dich umentscheidest, kannst du jederzeit wieder vorbeikommen. Wenn es dann nicht schon zu spät ist.
+C01OccultDoorYou10	Jaja, bye bye.
+C01OccultDoorYou11	Jetzt sollte ich aber schnell zu Maki gehen.
+C01OccultDoorYouRepeat	Ich sollte Maki nicht länger warten lassen.
+
+C01OccultDoorYouSecret	Was zur Hölle...
+C01OccultDoorSecret	Du hast ein großes Geheimnis, nicht wahr?
+
+C01EndOccultGirl00=Du hast dir aber Zeit gelassen. Komm, wir gehen.
+C01EndOccultGirl01=Also, ich wollte dir noch was sagen.
+C01EndOccultGirl02=Aber erstmal, warst du gerade auf Klo oder was hat da so lange gedauert?
+C01EndOccult00=Ich war noch beim Okkult-Club. Die haben @End6irgendwelche komischen Zettel...
+C01EndOccultGirl03=Beim Okkult-Club?
+C01EndOccult01=Ja, die dachten, die könnten mich als neues Mitglied bekommen, wenn die mir irgendwelche Steiche spielen.
+C01EndOccultGirl04=Geh nicht mehr zu ihnen!
+C01EndOccult02=O-Okay. Wieso nicht?
+C01EndOccultGirl05=Sie sind gefährlich. Mit denen darfst du dich nicht einlassen!
+C01EndOccult03=Ist ja gut.
+C01EndOccult04=Wolltest du mir nicht noch was sagen?
+C01EndOccultGirl06=Hmpf.
+C01EndOccult05=Sie hat wohl ziemlich schlechte Erfahrungen mit denen.
+
+C01EndNormalGirl00=Da bist du ja. Komm, wir gehen.
+C01EndNormalGirl01=Ich wollte dir noch was sagen.
+C01EndNormal00=Was denn?
+C01EndNormalGirl02=Du weißt ja, dass ich in letzter Zeit manchmal gefehlt habe.
+C01EndNormal01=Achja! Ich wollt dich deswegen auch noch fragen, ob es dir gut geht? Ist das irgendwas schlimmes?
+C01EndNormalGirl03=Nein, nein. Töten kann mich das nicht.
+C01EndNormal02=Aber es ist nicht nur ne Erkältung oder so?
+C01EndNormalGirl04=Nein...
+C01EndNormalGirl05=Also...
+C01EndNormalGirl06=Wie soll ich sagen...
+C01EndNormalGirl07=Ach, ist ja sowieso nicht so wichtig.
+C01EndNormal03=Wirklich nicht?
+C01EndNormalGirl08=Ja... Alles okay...
+C01EndNormal04=Irgendwas stimmt mit ihr nicht...

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 732c89c4116810f478589d4745a4cf7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: //RootNode
+    100016: Window
+    100018: Window_001
+    100020: Window_002
+    100022: Plane
+    100024: Fence
+    100026: Fence_001
+    100028: Fence_002
+    100030: Fence_003
+    100032: Fence_004
+    100034: Fence_005
+    100036: Fence_006
+    100038: Fence_007
+    100040: Fence_008
+    100042: Fence_009
+    100044: Fence_010
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: //RootNode
+    400016: Window
+    400018: Window_001
+    400020: Window_002
+    400022: Plane
+    400024: Fence
+    400026: Fence_001
+    400028: Fence_002
+    400030: Fence_003
+    400032: Fence_004
+    400034: Fence_005
+    400036: Fence_006
+    400038: Fence_007
+    400040: Fence_008
+    400042: Fence_009
+    400044: Fence_010
+    2100000: Walls
+    2100002: Floor__FloorStairs_png
+    2100004: Stairs
+    2100006: Ceiling__CeilingStairs_png
+    2100008: WindowTexture01
+    2100010: WindowTexture02
+    2100012: Floor__FloorStairs_png_001
+    2100014: Floor
+    2100016: Floor__FloorStairs_png_002
+    2100018: Ceiling__CeilingStairs_png_002
+    2100020: Floor__FloorStairs_png_003
+    2100022: Ceiling__CeilingStairsTop_png
+    2100024: unnamed
+    2100026: Fence
+    2100028: Fence_002
+    2100030: Fence_001
+    2100032: Fence_003
+    2100034: Fence_005
+    2100036: Fence_004
+    2100038: Fence_006
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Window
+    2300016: Window_001
+    2300018: Window_002
+    2300020: Plane
+    2300022: Fence
+    2300024: Fence_001
+    2300026: Fence_002
+    2300028: Fence_003
+    2300030: Fence_004
+    2300032: Fence_005
+    2300034: Fence_006
+    2300036: Fence_007
+    2300038: Fence_008
+    2300040: Fence_009
+    2300042: Fence_010
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Window
+    3300016: Window_001
+    3300018: Window_002
+    3300020: Plane
+    3300022: Fence
+    3300024: Fence_001
+    3300026: Fence_002
+    3300028: Fence_003
+    3300030: Fence_004
+    3300032: Fence_005
+    3300034: Fence_006
+    3300036: Fence_007
+    3300038: Fence_008
+    3300040: Fence_009
+    3300042: Fence_010
+    4300000: Cube
+    4300002: Window
+    4300004: Cube_002
+    4300006: Cube_003
+    4300008: Window_001
+    4300010: Cube_001
+    4300012: Cube_004
+    4300014: Window_002
+    4300016: Cube_005
+    4300018: Cube_006
+    4300020: Plane
+    4300022: Fence
+    4300024: Fence_001
+    4300026: Fence_002
+    4300028: Fence_005
+    4300030: Fence_004
+    4300032: Fence_003
+    4300034: Fence_006
+    4300036: Fence_007
+    4300038: Fence_009
+    4300040: Fence_008
+    4300042: Fence_010
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

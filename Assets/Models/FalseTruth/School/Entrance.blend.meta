@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: b24e1e12230d7104986da3f882a3e0af
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Walls
+    100006: Cube_001
+    100008: Cube_003
+    100010: Cube_007
+    100012: Window_003
+    100014: Window_004
+    100016: Window_005
+    100018: Cube_002
+    100020: Cube_004
+    100022: Cube_005
+    100024: Cube_006
+    400000: Cube
+    400002: //RootNode
+    400004: Walls
+    400006: Cube_001
+    400008: Cube_003
+    400010: Cube_007
+    400012: Window_003
+    400014: Window_004
+    400016: Window_005
+    400018: Cube_002
+    400020: Cube_004
+    400022: Cube_005
+    400024: Cube_006
+    2100000: WallTexture__EntranceLocker_png
+    2100002: WallTexture
+    2100004: FloorTextureOut
+    2100006: FloorTexture__FloorEntrance_png
+    2100008: CeilingTexture__CeilingEntrance_png
+    2100010: WindowTexture01
+    2100012: WindowTexture02
+    2100014: WallTexturee
+    2300000: Cube
+    2300002: Walls
+    2300004: Cube_001
+    2300006: Cube_003
+    2300008: Cube_007
+    2300010: Window_003
+    2300012: Window_004
+    2300014: Window_005
+    2300016: Cube_002
+    2300018: Cube_004
+    2300020: Cube_005
+    2300022: Cube_006
+    3300000: Cube
+    3300002: Walls
+    3300004: Cube_001
+    3300006: Cube_003
+    3300008: Cube_007
+    3300010: Window_003
+    3300012: Window_004
+    3300014: Window_005
+    3300016: Cube_002
+    3300018: Cube_004
+    3300020: Cube_005
+    3300022: Cube_006
+    4300000: Cube
+    4300002: Walls
+    4300004: Window_003
+    4300006: Cube_001
+    4300008: Window_004
+    4300010: Cube_003
+    4300012: Window_005
+    4300014: Cube_007
+    4300016: Cube_002
+    4300018: Cube_004
+    4300020: Cube_005
+    4300022: Cube_006
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingTexture__CeilingEntrance_png
+    second: {fileID: 2100000, guid: 3fb426987d078584788d447a617dcc1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorTextureOut
+    second: {fileID: 2100000, guid: 6d947497f93fa7e468aa3327c29fedaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorTexture__FloorEntrance_png
+    second: {fileID: 2100000, guid: b4c0e16a0bb0dff4582468c35313baba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallTexture
+    second: {fileID: 2100000, guid: 71f35334f8d425b4f867e019346c122e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallTexture__EntranceLocker_png
+    second: {fileID: 2100000, guid: 34714c8c583373f42a80d00e0ccdc4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallTexturee
+    second: {fileID: 2100000, guid: 460f9ff972b3c7742b482db536012ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowTexture01
+    second: {fileID: 2100000, guid: a0f8b1ca63440914c98b98ca7119203a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowTexture02
+    second: {fileID: 2100000, guid: 903445bda78c28047bc181656d25165b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
